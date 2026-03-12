@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/English-Click-yellow" alt="English" /></a> | <a href="README-zh.md"><img src="https://img.shields.io/badge/中文文档-点击查看-orange" alt="中文" /></a> | <a href="README-de.md"><img src="https://img.shields.io/badge/Deutsch-Klicken-blue" alt="Deutsch" /></a> | <a href="README-fr.md"><img src="https://img.shields.io/badge/Français-Cliquer-green" alt="Français" /></a> | <a href="README-es.md"><img src="https://img.shields.io/badge/Español-Clic-red" alt="Español" /></a> | <a href="README-pt.md"><img src="https://img.shields.io/badge/Português-Clique-brightgreen" alt="Português" /></a> | <a href="README-ja.md"><img src="https://img.shields.io/badge/日本語-クリック-blueviolet" alt="日本語" /></a> | <a href="README-ko.md"><img src="https://img.shields.io/badge/한국어-클릭-ff69b4" alt="한국어" /></a>
+  <a href="README-tr.md"><img src="https://img.shields.io/badge/Türkçe-Tıkla-crimson" alt="Türkçe" /></a> | <a href="README.md"><img src="https://img.shields.io/badge/English-Click-yellow" alt="English" /></a> | <a href="README-zh.md"><img src="https://img.shields.io/badge/中文-点击查看-orange" alt="中文" /></a> | <a href="README-de.md"><img src="https://img.shields.io/badge/Deutsch-Klicken-blue" alt="Deutsch" /></a> | <a href="README-fr.md"><img src="https://img.shields.io/badge/Français-Cliquer-green" alt="Français" /></a> | <a href="README-es.md"><img src="https://img.shields.io/badge/Español-Clic-red" alt="Español" /></a> | <a href="README-pt.md"><img src="https://img.shields.io/badge/Português-Clique-brightgreen" alt="Português" /></a> | <a href="README-ja.md"><img src="https://img.shields.io/badge/日本語-クリック-blueviolet" alt="日本語" /></a> | <a href="README-ko.md"><img src="https://img.shields.io/badge/한국어-클릭-ff69b4" alt="한국어" /></a> | <a href="README-hi.md"><img src="https://img.shields.io/badge/हिन्दी-क्लिक-orange" alt="हिन्दी" /></a> | <a href="README-ar.md"><img src="https://img.shields.io/badge/العربية-انقر-green" alt="العربية" /></a> | <a href="README-id.md"><img src="https://img.shields.io/badge/Bahasa_Indonesia-Klik-red" alt="Bahasa Indonesia" /></a> | <a href="README-ru.md"><img src="https://img.shields.io/badge/Русский-Нажмите-blue" alt="Русский" /></a> | <a href="README-it.md"><img src="https://img.shields.io/badge/Italiano-Clicca-brightgreen" alt="Italiano" /></a>
 </p>
 
 <p align="center">
@@ -124,6 +124,8 @@
 | Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable | 一个由AI驱动的Outlook助手，处理邮件，清理内容，并使用来自Airtable的规则分配类别。与Monday.com集成以提供联系支持。 | 运营 | [模板链接](Gmail_and_Email_Automation/Microsoft%20Outlook%20AI%20Email%20Assistant%20with%20contact%20support%20from%20Monday%20and%20Airtable.json) |
 | 📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox | 从FT.com提取财经新闻并将每日更新发送到您的Outlook收件箱。自动化内容提取和邮件传递以获取及时的市场洞察。 | 执行 | [模板链接](Gmail_and_Email_Automation/📈%20Receive%20Daily%20Market%20News%20from%20FT.com%20to%20your%20Microsoft%20outlook%20inbox.json) |
 
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### 如何使用 n8n 实现 Telegram 机器人自动化？
 
 探索 18 个 n8n Telegram 自动化模板，包括基于 LangChain 和 OpenAI 的 AI 聊天机器人、支持 55 种语言的语音转文本翻译、PDF 聊天功能、图像分析机器人和 Spotify 集成。这些模板涵盖客户支持、营销和内容审核等使用场景。
@@ -149,6 +151,8 @@
 | Translate Telegram audio messages with AI (55 supported languages) | 接收语音消息，转录它们，并以超过50种语言发送回翻译。 | 支持 | [模板链接](Telegram/Translate%20Telegram%20audio%20messages%20with%20AI%20(55%20supported%20languages).json) |
 | Empower Your AI Chatbot with Long-Term Memory and Dynamic Tool Routing | 外部工作流程，通过长期记忆和动态工具路由功能增强AI聊天机器人。 | 支持 | [模板链接](https://n8n.io/workflows/3025-empower-your-ai-chatbot-with-long-term-memory-and-dynamic-tool-routing/) |
 
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### 有哪些好用的 n8n Google Drive 和 Google Sheets 模板？
 
 浏览 13 个 n8n Google Drive 和 Google Sheets 自动化模板。包括企业文档 RAG 聊天机器人、OpenAI 模型微调流水线、自动背景移除、GPT-4 潜在客户筛选、HR 求职者筛选以及文档摘要工作流。非常适合运营、销售、营销和工程团队。
@@ -169,7 +173,7 @@
 | Screen Applicants With AI, notify HR and save them in a Google Sheet | 使用AI自动化筛选工作申请人，通知HR合格的候选人，并将申请人数据保存到Google Sheet中。 | HR | [模板链接](Google_Drive_and_Google_Sheets/Screen%20Applicants%20With%20AI,%20notify%20HR%20and%20save%20them%20in%20a%20Google%20Sheet.json) |
 | Summarize Google Sheets form feedback via OpenAI's GPT-4 | 使用OpenAI的GPT-4总结通过Google Forms收集并存储在Google Sheets中的反馈，从调查回复中提供快速洞察。 | 营销 | [模板链接](Google_Drive_and_Google_Sheets/Summarize%20Google%20Sheets%20form%20feedback%20via%20OpenAI_s%20GPT-4.json) |
 
-> **准备好自动化了吗？** [将这些模板导入 n8n -- 免费开始使用。](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 如何使用 n8n 自动化 WordPress？
 
@@ -183,6 +187,8 @@
 | Automate Content Generator for WordPress with DeepSeek R1 | 此工作流程使用DeepSeek R1 AI模型为WordPress自动化内容生成，实现快速内容创建。 | 营销/内容 | [模板链接](WordPress/Automate%20Content%20Generator%20for%20WordPress%20with%20DeepSeek%20R1.json) |
 | WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI | 此工作流程使用Supabase和OpenAI将AI聊天机器人集成到WordPress中，通过提供智能交互来增强用户体验。 | 客户支持/营销 | [模板链接](WordPress/WordPress%20-%20AI%20Chatbot%20to%20enhance%20user%20experience%20-%20with%20Supabase%20and%20OpenAI.json) |
 | Write a WordPress post with AI (starting from a few keywords) | 此工作流程使用AI基于几个关键词撰写WordPress文章，简化内容创建过程。 | 营销/内容 | [模板链接](WordPress/Write%20a%20WordPress%20post%20with%20AI%20(starting%20from%20a%20few%20keywords).json) |
+
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 有哪些 n8n 模板用于 PDF 和文档处理？
 
@@ -202,6 +208,8 @@
 | Extract text from PDF and image using Vertex AI (Gemini) into CSV | 此工作流程使用Vertex AI（Gemini）从PDF和图像中提取文本，基于文件类型路由，并将提取的数据转换为CSV格式。 | 数据提取/IT | [模板链接](PDF_and_Document_Processing/Extract%20text%20from%20PDF%20and%20image%20using%20Vertex%20AI%20(Gemini)%20into%20CSV.json) |
 | Invoice data extraction with LlamaParse and OpenAI | 此工作流程使用LlamaParse和OpenAI从发票中提取结构化数据，然后使用结构化输出解析器进行详细的发票数据提取。 | 财务/管理 | [模板链接](PDF_and_Document_Processing/Invoice%20data%20extraction%20with%20LlamaParse%20and%20OpenAI.json) |
 
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### 如何使用 n8n 实现 Discord 自动化？
 
 本节包含 3 个 n8n Discord 自动化模板。构建可将消息路由到正确部门的 AI 驱动 Discord 机器人、自动化每日漫画翻译和发布，或将附有 AI 生成摘要的 YouTube 视频直接分享到你的 Discord 服务器。
@@ -211,6 +219,8 @@
 | Discord AI-powered bot | 此工作流程创建一个AI驱动的Discord机器人，对用户消息进行分类（成功故事、紧急问题、工单）并将它们路由到相应的部门（客户成功、IT、客户支持）。 | 客户支持 | [模板链接](Discord/Discord%20AI-powered%20bot.json) |
 | Send daily translated Calvin and Hobbes Comics to Discord | 此工作流程自动化每日检索Calvin和Hobbes漫画，将对话翻译成英语和韩语（或其他语言），并将它们发布到Discord。 | 营销/内容 | [模板链接](Discord/Send%20daily%20translated%20Calvin%20and%20Hobbes%20Comics%20to%20Discord.json) |
 | Share YouTube Videos with AI Summaries on Discord | 此工作流程自动在Discord上分享新的YouTube视频以及AI生成的内容摘要，利用字幕数据。 | 营销 | [模板链接](Discord/Share%20YouTube%20Videos%20with%20AI%20Summaries%20on%20Discord.json) |
+
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 有哪些好用的 n8n 数据库和存储自动化模板？
 
@@ -224,7 +234,7 @@
 | Supabase Insertion & Upsertion & Retrieval | 此工作流程演示如何对Supabase执行插入、更新和检索操作，特别是处理向量嵌入和关联元数据。 | 工程 | [模板链接](Database_and_Storage/Supabase%20Insertion%20&%20Upsertion%20&%20Retrieval.json) |
 | Talk to your SQLite database with a LangChain AI Agent | 此工作流程允许用户使用LangChain AI代理与SQLite数据库交互，实现自然语言查询和从数据库检索数据。 | 数据分析 | [模板链接](Database_and_Storage/Talk%20to%20your%20SQLite%20database%20with%20a%20LangChain%20AI%20Agent.json) |
 
-> **今天就开始构建你的自动化工作流。** [免费试用 n8n -- 无需信用卡。](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 有哪些 n8n 模板用于 DevOps 和服务器自动化？
 
@@ -234,6 +244,8 @@
 |-------|-------------|------|
 | Linux System Update via Webhook | 通过经过身份验证的 POST 请求和 SSH 触发 Debian 系服务器的更新和升级。 | [模板链接](devops/linux-update-via-webhook.json) |
 | Docker Compose Controller via Webhook | 通过经过身份验证的 HTTP POST 请求，使用 n8n + SSH 在服务器上启动或停止 Docker Compose 服务。 | [模板链接](devops/docker-compose-controller.json) |
+
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 如何使用 n8n 自动化 Airtable？
 
@@ -246,6 +258,8 @@
 | Get Airtable data via AI and Obsidian Notes | 此工作流程使用AI代理从Airtable检索数据并将其与Obsidian Notes集成，允许在Obsidian内无缝访问和组织数据。 | 生产力 | [模板链接](Airtable/Get%20Airtable%20data%20via%20AI%20and%20Obsidian%20Notes.json) |
 | Handling Job Application Submissions with AI and n8n Forms | 此工作流程通过使用AI从简历（PDF）中提取信息来自动化工作申请提交的处理，将其解析为结构化格式，并可能存储在Airtable中。 | HR | [模板链接](Airtable/Handling%20Job%20Application%20Submissions%20with%20AI%20and%20n8n%20Forms.json) |
 | vAssistant for Hubspot Chat using OpenAi and Airtable | 此工作流程将OpenAI助手与HubSpot聊天和Airtable集成，以提供自动回复并管理客户交互。它获取聊天消息，用AI处理它们，并可以在Airtable中存储相关信息。 | 销售 | [模板链接](Airtable/vAssistant%20for%20Hubspot%20Chat%20using%20OpenAi%20and%20Airtable.json) |
+
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 有哪些好用的 n8n Notion 模板？
 
@@ -264,6 +278,8 @@
 | Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr | 将邮件转换为Notion中的AI增强任务，支持多用户。它与Gmail集成以触发邮件，与Airtable集成以路由，与Softr集成以提供用户界面。 | 运营 | [模板链接](Notion/Turn%20Emails%20into%20AI-Enhanced%20Tasks%20in%20Notion%20(Multi-User%20Support)%20with%20Gmail,%20Airtable%20and%20Softr.json) |
 | Upsert huge documents in a vector store with Supabase and Notion | 通过将大型文档分割成块，生成嵌入，并将它们更新到Supabase向量存储中来管理大型文档，Notion作为文档源。 | 工程 | [模板链接](Notion/Upsert%20huge%20documents%20in%20a%20vector%20store%20with%20Supabase%20and%20Notion.json) |
 
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### 如何使用 n8n 实现 Slack 自动化？
 
 探索 9 个 n8n Slack 自动化模板。使用 AI 驱动的摘要监控 RSS 源、使用 Google Gemini 构建 Slack 机器人、自动化 Linear 客户支持工单、通过 Qualys 集成增强安全运营、丰富 Pipedrive CRM 数据、创建 IT 知识库聊天机器人、跟踪支持问题情感，以及通过 Venafi Cloud 管理证书。
@@ -280,7 +296,7 @@
 | Slack slash commands AI Chat Bot | 实现可通过Slack斜杠命令访问的AI聊天机器人，处理用户命令，与AI模型交互，并在Slack内响应。 | IT | [模板链接](Slack/Slack%20slash%20commands%20AI%20Chat%20Bot.json) |
 | Venafi Cloud Slack Cert Bot | 提供与Venafi Cloud交互以进行证书管理的Slack机器人，允许用户检查证书状态、接收警报或通过Slack请求证书操作。 | 安全 | [模板链接](Slack/Venafi%20Cloud%20Slack%20Cert%20Bot.json) |
 
-> **这些模板基于 n8n 运行。** [免费试用 -- 几分钟即可导入任何工作流。](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 有哪些 n8n 模板用于 OpenAI、LLM 和 AI Agent？
 
@@ -306,6 +322,8 @@
 | AI: Ask questions about any data source (using the n8n workflow retriever) | 允许用户使用n8n工作流程检索器询问各种数据源的问题。 | AI/数据分析/工作流程自动化 | [模板链接](OpenAI_and_LLMs/AI_%20Ask%20questions%20about%20any%20data%20source%20(using%20the%20n8n%20workflow%20retriever).json) |
 | AI: Summarize podcast episode and enhance using Wikipedia | 使用AI总结播客集并使用维基百科的信息增强摘要。 | 内容创建/AI/数据分析 | [模板链接](OpenAI_and_LLMs/AI_%20Summarize%20podcast%20episode%20and%20enhance%20using%20Wikipedia.json) |
 
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### 如何使用 n8n 构建 WhatsApp 聊天机器人？
 
 本节包含 4 个 n8n WhatsApp 自动化模板。使用 AI 和 Apify 自动化销售会议准备、构建你的第一个 WhatsApp 聊天机器人、创建基于 OpenAI 的完整商业 RAG 聊天机器人，或设置专业的 AI 驱动消息回复。非常适合客户服务、销售和商业沟通工作流。
@@ -317,7 +335,7 @@
 | Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI | 此工作流程使用OpenAI构建完整的商业WhatsApp AI驱动RAG聊天机器人。 | 客户服务/AI/开发 | [模板链接](./WhatsApp/Complete%20business%20WhatsApp%20AI-Powered%20RAG%20Chatbot%20using%20OpenAI.json) |
 | Respond to WhatsApp Messages with AI Like a Pro! | 此工作流程实现专业的AI驱动WhatsApp消息回复。 | 客户服务/AI/沟通 | [模板链接](./WhatsApp/Respond%20to%20WhatsApp%20Messages%20with%20AI%20Like%20a%20Pro!.json) |
 
-> **需要 n8n 来运行这些模板？** [免费开始 -- 无需任何设置。](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 有哪些好用的 n8n 社交媒体自动化模板？
 
@@ -335,6 +353,8 @@
 | Speed Up Social Media Banners With BannerBear.com | 使用BannerBear.com自动化社交媒体横幅的创建。 | 营销/设计 | [模板链接](Instagram_Twitter_Social_Media/Speed%20Up%20Social%20Media%20Banners%20With%20BannerBear.com.json) |
 | Twitter Virtual AI Influencer | 管理虚拟AI影响者的Twitter账户。 | 营销/AI | [模板链接](Instagram_Twitter_Social_Media/Twitter%20Virtual%20AI%20Influencer.json) |
 | Update Twitter banner using HTTP request | 使用HTTP请求更新Twitter横幅。 | 营销/开发 | [模板链接](Instagram_Twitter_Social_Media/Update%20Twitter%20banner%20using%20HTTP%20request.json) |
+
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 还有哪些其他 n8n 集成模板可用？
 
@@ -372,7 +392,7 @@
 | Visualize SQL Agent queries with OpenAI and Quickchart.io | 使用OpenAI和Quickchart.io从SQL查询创建可视化。 | 数据分析/可视化 | [模板链接](Other_Integrations_and_Use_Cases/Visualize%20your%20SQL%20Agent%20queries%20with%20OpenAI%20and%20Quickchart.io.json) |
 | Zoom AI Meeting Assistant | 从Zoom会议创建会议摘要、ClickUp任务并安排跟进。 | 生产力/沟通 | [模板链接](Other_Integrations_and_Use_Cases/Zoom%20AI%20Meeting%20Assistant%20creates%20mail%20summary,%20ClickUp%20tasks%20and%20follow-up%20call.json) |
 
-> **自动化任何工作流。** [创建你的免费 n8n 账户，立即开始构建。](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 如何使用 n8n 自动化表单和调查？
 
@@ -383,6 +403,8 @@
 | Conversational Interviews with AI Agents and n8n Forms | 使用n8n表单实现AI驱动的对话式访谈以进行交互式数据收集。 | 研究/营销 | [模板链接](Forms_and_Surveys/Conversational%20Interviews%20with%20AI%20Agents%20and%20n8n%20Forms.json) |
 | Email Subscription Service with n8n Forms, Airtable and AI | 使用n8n表单管理邮件订阅，在Airtable中存储数据，并使用AI进行处理。 | 营销/沟通 | [模板链接](Forms_and_Surveys/Email%20Subscription%20Service%20with%20n8n%20Forms,%20Airtable%20and%20AI.json) |
 | Qualifying Appointment Requests with AI & n8n Forms | 使用AI筛选和处理通过n8n表单提交的预约请求。 | 销售/支持 | [模板链接](Forms_and_Surveys/Qualifying%20Appointment%20Requests%20with%20AI%20&%20n8n%20Forms.json) |
+
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### 有哪些 n8n 模板用于 AI 研究、RAG 和数据分析？
 
@@ -430,11 +452,19 @@
 | Visual Regression Testing with Apify and AI Vision Model | 使用Apify和AI视觉模型执行视觉回归测试以检测UI变化。 | QA，AI研究 | [视觉回归测试.txt](./AI_Research_RAG_and_Data_Analysis/Visual%20Regression%20Testing%20with%20Apify%20and%20AI%20Vision%20Model.json) |
 | 🔍 Perplexity Research to HTML: AI-Powered Content Creation | 将Perplexity AI研究转换为HTML内容以进行AI驱动的内容创建。 | 内容创建，AI研究 | [🔍 Perplexity研究到HTML.txt](./AI_Research_RAG_and_Data_Analysis/%F0%9F%94%8D%20Perplexity%20Research%20to%20HTML_%20AI-Powered%20Content%20Creation.json) |
 
+> 🚀 **自动化任何工作流程。** [创建免费 n8n 账户，开始构建 →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### 其他
 
 - `ALL_unique_nodes.txt` -- 完整的节点参考，列出了这些模板中使用的所有唯一 n8n 节点。
 
 ---
+
+<p align="center">
+  <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
+    <img src="https://img.shields.io/badge/创建免费_n8n_账户-开始自动化-orange?style=for-the-badge" alt="Create Free n8n Account" />
+  </a>
+</p>
 
 ## 常见问题
 

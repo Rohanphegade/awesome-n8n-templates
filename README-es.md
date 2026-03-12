@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/English-Click-yellow" alt="English" /></a> | <a href="README-zh.md"><img src="https://img.shields.io/badge/中文文档-点击查看-orange" alt="中文" /></a> | <a href="README-de.md"><img src="https://img.shields.io/badge/Deutsch-Klicken-blue" alt="Deutsch" /></a> | <a href="README-fr.md"><img src="https://img.shields.io/badge/Français-Cliquer-green" alt="Français" /></a> | <a href="README-es.md"><img src="https://img.shields.io/badge/Español-Clic-red" alt="Español" /></a> | <a href="README-pt.md"><img src="https://img.shields.io/badge/Português-Clique-brightgreen" alt="Português" /></a> | <a href="README-ja.md"><img src="https://img.shields.io/badge/日本語-クリック-blueviolet" alt="日本語" /></a> | <a href="README-ko.md"><img src="https://img.shields.io/badge/한국어-클릭-ff69b4" alt="한국어" /></a>
+  <a href="README-tr.md"><img src="https://img.shields.io/badge/Türkçe-Tıkla-crimson" alt="Türkçe" /></a> | <a href="README.md"><img src="https://img.shields.io/badge/English-Click-yellow" alt="English" /></a> | <a href="README-zh.md"><img src="https://img.shields.io/badge/中文-点击查看-orange" alt="中文" /></a> | <a href="README-de.md"><img src="https://img.shields.io/badge/Deutsch-Klicken-blue" alt="Deutsch" /></a> | <a href="README-fr.md"><img src="https://img.shields.io/badge/Français-Cliquer-green" alt="Français" /></a> | <a href="README-es.md"><img src="https://img.shields.io/badge/Español-Clic-red" alt="Español" /></a> | <a href="README-pt.md"><img src="https://img.shields.io/badge/Português-Clique-brightgreen" alt="Português" /></a> | <a href="README-ja.md"><img src="https://img.shields.io/badge/日本語-クリック-blueviolet" alt="日本語" /></a> | <a href="README-ko.md"><img src="https://img.shields.io/badge/한국어-클릭-ff69b4" alt="한국어" /></a> | <a href="README-hi.md"><img src="https://img.shields.io/badge/हिन्दी-क्लिक-orange" alt="हिन्दी" /></a> | <a href="README-ar.md"><img src="https://img.shields.io/badge/العربية-انقر-green" alt="العربية" /></a> | <a href="README-id.md"><img src="https://img.shields.io/badge/Bahasa_Indonesia-Klik-red" alt="Bahasa Indonesia" /></a> | <a href="README-ru.md"><img src="https://img.shields.io/badge/Русский-Нажмите-blue" alt="Русский" /></a> | <a href="README-it.md"><img src="https://img.shields.io/badge/Italiano-Clicca-brightgreen" alt="Italiano" /></a>
 </p>
 
 <p align="center">
@@ -124,6 +124,8 @@ Esta coleccion incluye 9 plantillas de automatizacion de correo electronico para
 | Microsoft Outlook AI Email Assistant with contact support from Monday and Airtable | Un asistente de correo con IA para Outlook que procesa correos, depura el contenido y asigna categorias usando reglas de Airtable. Se integra con Monday.com para soporte de contactos. | Operaciones | [Enlace a la Plantilla](Gmail_and_Email_Automation/Microsoft%20Outlook%20AI%20Email%20Assistant%20with%20contact%20support%20from%20Monday%20and%20Airtable.json) |
 | 📈 Receive Daily Market News from FT.com to your Microsoft outlook inbox | Extrae noticias financieras de FT.com y envia actualizaciones diarias a tu bandeja de Outlook. Automatiza la extraccion de contenido y el envio de correos para obtener informacion de mercado oportuna. | Direccion | [Enlace a la Plantilla](Gmail_and_Email_Automation/📈%20Receive%20Daily%20Market%20News%20from%20FT.com%20to%20your%20Microsoft%20outlook%20inbox.json) |
 
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### Como puedo automatizar bots de Telegram con n8n?
 
 Explora 18 plantillas de automatizacion de Telegram para n8n, incluyendo chatbots con IA usando LangChain y OpenAI, traduccion de voz a texto en 55 idiomas, funcionalidad de chat con PDF, bots de analisis de imagenes e integracion con Spotify. Estas plantillas cubren casos de uso de soporte, marketing y moderacion de contenido para Telegram.
@@ -149,6 +151,8 @@ Explora 18 plantillas de automatizacion de Telegram para n8n, incluyendo chatbot
 | Translate Telegram audio messages with AI (55 supported languages) | Recibe mensajes de voz, los transcribe y envia traducciones en mas de 50 idiomas. | Soporte | [Enlace a la Plantilla](Telegram/Translate%20Telegram%20audio%20messages%20with%20AI%20(55%20supported%20languages).json) |
 | Empower Your AI Chatbot with Long-Term Memory and Dynamic Tool Routing | Flujo externo que mejora un chatbot de IA con memoria a largo plazo y capacidades de enrutamiento dinamico de herramientas. | Soporte | [Enlace a la Plantilla](https://n8n.io/workflows/3025-empower-your-ai-chatbot-with-long-term-memory-and-dynamic-tool-routing/) |
 
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### Cuales son las mejores plantillas de n8n para Google Drive y Google Sheets?
 
 Explora 13 plantillas de automatizacion de Google Drive y Google Sheets para n8n. Incluye chatbots RAG para documentos de empresa, pipelines de ajuste fino de modelos OpenAI, eliminacion automatica de fondos, cualificacion de leads con GPT-4, filtrado de candidatos para RRHH y flujos de resumen de documentos. Perfecto para equipos de operaciones, ventas, marketing e ingenieria.
@@ -169,7 +173,7 @@ Explora 13 plantillas de automatizacion de Google Drive y Google Sheets para n8n
 | Screen Applicants With AI, notify HR and save them in a Google Sheet | Automatiza el filtrado de candidatos usando IA, notifica a RRHH sobre los candidatos cualificados y guarda los datos en una hoja de Google Sheets. | RRHH | [Enlace a la Plantilla](Google_Drive_and_Google_Sheets/Screen%20Applicants%20With%20AI,%20notify%20HR%20and%20save%20them%20in%20a%20Google%20Sheet.json) |
 | Summarize Google Sheets form feedback via OpenAI's GPT-4 | Resume las opiniones recopiladas a traves de Google Forms y almacenadas en Google Sheets usando GPT-4 de OpenAI, proporcionando informacion rapida de las respuestas de encuestas. | Marketing | [Enlace a la Plantilla](Google_Drive_and_Google_Sheets/Summarize%20Google%20Sheets%20form%20feedback%20via%20OpenAI_s%20GPT-4.json) |
 
-> **Listo para automatizar?** [Importa estas plantillas en n8n -- empieza gratis.](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Como automatizo WordPress con n8n?
 
@@ -183,6 +187,8 @@ Esta seccion incluye 6 plantillas de automatizacion de WordPress para n8n. Autom
 | Automate Content Generator for WordPress with DeepSeek R1 | Este flujo automatiza la generacion de contenido para WordPress usando el modelo de IA DeepSeek R1, permitiendo la creacion rapida de contenido. | Marketing/Contenido | [Enlace a la Plantilla](WordPress/Automate%20Content%20Generator%20for%20WordPress%20with%20DeepSeek%20R1.json) |
 | WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI | Este flujo integra un chatbot de IA en WordPress usando Supabase y OpenAI para mejorar la experiencia del usuario proporcionando interacciones inteligentes. | Atencion al Cliente/Marketing | [Enlace a la Plantilla](WordPress/WordPress%20-%20AI%20Chatbot%20to%20enhance%20user%20experience%20-%20with%20Supabase%20and%20OpenAI.json) |
 | Write a WordPress post with AI (starting from a few keywords) | Este flujo usa IA para escribir entradas de WordPress a partir de unas pocas palabras clave, simplificando el proceso de creacion de contenido. | Marketing/Contenido | [Enlace a la Plantilla](WordPress/Write%20a%20WordPress%20post%20with%20AI%20(starting%20from%20a%20few%20keywords).json) |
+
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Que plantillas de n8n existen para PDF y procesamiento de documentos?
 
@@ -202,6 +208,8 @@ Encuentra 11 plantillas de procesamiento de PDF y documentos para n8n. Estos flu
 | Extract text from PDF and image using Vertex AI (Gemini) into CSV | Este flujo extrae texto de PDFs e imagenes usando Vertex AI (Gemini), clasifica por tipo de archivo y convierte los datos extraidos a formato CSV. | Extraccion de Datos/IT | [Enlace a la Plantilla](PDF_and_Document_Processing/Extract%20text%20from%20PDF%20and%20image%20using%20Vertex%20AI%20(Gemini)%20into%20CSV.json) |
 | Invoice data extraction with LlamaParse and OpenAI | Este flujo extrae datos estructurados de facturas usando LlamaParse y OpenAI, y luego los procesa con un parser de salida estructurada para la extraccion detallada de datos de facturacion. | Finanzas/Administracion | [Enlace a la Plantilla](PDF_and_Document_Processing/Invoice%20data%20extraction%20with%20LlamaParse%20and%20OpenAI.json) |
 
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### Como puedo automatizar Discord con n8n?
 
 Esta seccion contiene 3 plantillas de automatizacion de Discord para n8n. Construye un bot de Discord con IA que enruta mensajes al departamento correcto, automatiza la traduccion y publicacion diaria de comics, o comparte videos de YouTube con resumenes generados por IA directamente en tu servidor de Discord.
@@ -211,6 +219,8 @@ Esta seccion contiene 3 plantillas de automatizacion de Discord para n8n. Constr
 | Discord AI-powered bot | Este flujo crea un bot de Discord con IA que categoriza los mensajes de los usuarios (caso de exito, problema urgente, ticket) y los enruta al departamento correspondiente (exito del cliente, IT, soporte). | Atencion al Cliente | [Enlace a la Plantilla](Discord/Discord%20AI-powered%20bot.json) |
 | Send daily translated Calvin and Hobbes Comics to Discord | Este flujo automatiza la obtencion diaria de comics de Calvin y Hobbes, traduce los dialogos al ingles y coreano (u otros idiomas) y los publica en Discord. | Marketing/Contenido | [Enlace a la Plantilla](Discord/Send%20daily%20translated%20Calvin%20and%20Hobbes%20Comics%20to%20Discord.json) |
 | Share YouTube Videos with AI Summaries on Discord | Este flujo comparte automaticamente nuevos videos de YouTube en Discord junto con resumenes generados por IA de su contenido, aprovechando los datos de subtitulos. | Marketing | [Enlace a la Plantilla](Discord/Share%20YouTube%20Videos%20with%20AI%20Summaries%20on%20Discord.json) |
+
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Cuales son las mejores plantillas de n8n para bases de datos y almacenamiento?
 
@@ -224,7 +234,7 @@ Encuentra 5 plantillas de automatizacion de bases de datos y almacenamiento para
 | Supabase Insertion & Upsertion & Retrieval | Este flujo demuestra como realizar operaciones de insercion, actualizacion e insercion (upsert) y recuperacion con Supabase, especificamente para gestionar embeddings vectoriales y metadatos asociados. | Ingenieria | [Enlace a la Plantilla](Database_and_Storage/Supabase%20Insertion%20&%20Upsertion%20&%20Retrieval.json) |
 | Talk to your SQLite database with a LangChain AI Agent | Este flujo permite a los usuarios interactuar con una base de datos SQLite usando un agente de IA de LangChain, habilitando consultas en lenguaje natural y recuperacion de datos de la base de datos. | Analisis de Datos | [Enlace a la Plantilla](Database_and_Storage/Talk%20to%20your%20SQLite%20database%20with%20a%20LangChain%20AI%20Agent.json) |
 
-> **Empieza a construir tus automatizaciones hoy.** [Prueba n8n gratis -- sin tarjeta de credito.](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Que plantillas de n8n hay para DevOps y automatizacion de servidores?
 
@@ -234,6 +244,8 @@ Esta seccion incluye 2 plantillas de automatizacion DevOps y de servidores para 
 |--------|-------------|--------|
 | Linux System Update via Webhook | Activa la actualizacion y upgrade de tu servidor basado en Debian mediante una solicitud POST autenticada y SSH. | Herramientas SSH | [Enlace a la Plantilla](devops/linux-update-via-webhook.json)
 | Docker Compose Controller via Webhook | Inicia o detiene servicios de Docker Compose en tu servidor mediante solicitudes HTTP POST autenticadas con n8n + SSH. | Herramientas SSH | [Enlace a la Plantilla](devops/docker-compose-controller.json) |
+
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Como automatizo Airtable con n8n?
 
@@ -246,6 +258,8 @@ Explora 5 plantillas de automatizacion de Airtable para n8n. Automatiza la gesti
 | Get Airtable data via AI and Obsidian Notes | Este flujo recupera datos de Airtable usando un agente de IA y los integra con Obsidian Notes, permitiendo un acceso y organizacion fluida de datos dentro de Obsidian. | Productividad | [Enlace a la Plantilla](Airtable/Get%20Airtable%20data%20via%20AI%20and%20Obsidian%20Notes.json) |
 | Handling Job Application Submissions with AI and n8n Forms | Este flujo automatiza el procesamiento de solicitudes de empleo extrayendo informacion de curriculos (PDFs) usando IA, parseandola en un formato estructurado y potencialmente almacenandola en Airtable. | RRHH | [Enlace a la Plantilla](Airtable/Handling%20Job%20Application%20Submissions%20with%20AI%20and%20n8n%20Forms.json) |
 | vAssistant for Hubspot Chat using OpenAi and Airtable | Este flujo integra un asistente OpenAI con HubSpot Chat y Airtable para proporcionar respuestas automatizadas y gestionar interacciones con clientes. Obtiene mensajes de chat, los procesa con IA y puede almacenar informacion relevante en Airtable. | Ventas | [Enlace a la Plantilla](Airtable/vAssistant%20for%20Hubspot%20Chat%20using%20OpenAi%20and%20Airtable.json) |
+
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Cuales son las mejores plantillas de n8n para Notion?
 
@@ -264,6 +278,8 @@ Descubre 10 plantillas de automatizacion de Notion para n8n. Almacena opiniones 
 | Turn Emails into AI-Enhanced Tasks in Notion (Multi-User Support) with Gmail, Airtable and Softr | Transforma correos en tareas mejoradas con IA en Notion, con soporte multiusuario. Se integra con Gmail para activacion por correo, Airtable para enrutamiento y Softr para la interfaz de usuario. | Operaciones | [Enlace a la Plantilla](Notion/Turn%20Emails%20into%20AI-Enhanced%20Tasks%20in%20Notion%20(Multi-User%20Support)%20with%20Gmail,%20Airtable%20and%20Softr.json) |
 | Upsert huge documents in a vector store with Supabase and Notion | Gestiona documentos grandes dividiendolos en fragmentos, generando embeddings e insertandolos en un almacen vectorial de Supabase, con Notion como fuente de documentos. | Ingenieria | [Enlace a la Plantilla](Notion/Upsert%20huge%20documents%20in%20a%20vector%20store%20with%20Supabase%20and%20Notion.json) |
 
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### Como puedo automatizar Slack con n8n?
 
 Explora 9 plantillas de automatizacion de Slack para n8n. Monitoriza feeds RSS con resumenes potenciados por IA, construye bots de Slack con Google Gemini, automatiza la gestion de tickets de soporte con Linear, mejora las operaciones de seguridad con integracion de Qualys, enriquece datos del CRM Pipedrive, crea chatbots de base de conocimiento para IT, haz seguimiento del sentimiento en incidencias de soporte y gestiona certificados via Venafi Cloud.
@@ -280,7 +296,7 @@ Explora 9 plantillas de automatizacion de Slack para n8n. Monitoriza feeds RSS c
 | Slack slash commands AI Chat Bot | Implementa un chatbot de IA accesible mediante comandos slash de Slack, procesando comandos del usuario, interactuando con un modelo de IA y respondiendo dentro de Slack. | IT | [Enlace a la Plantilla](Slack/Slack%20slash%20commands%20AI%20Chat%20Bot.json) |
 | Venafi Cloud Slack Cert Bot | Proporciona un bot de Slack que interactua con Venafi Cloud para gestion de certificados, permitiendo a los usuarios verificar el estado de certificados, recibir alertas o solicitar acciones sobre certificados via Slack. | Seguridad | [Enlace a la Plantilla](Slack/Venafi%20Cloud%20Slack%20Cert%20Bot.json) |
 
-> **Estas plantillas funcionan con n8n.** [Pruebalo gratis -- importa cualquier flujo de trabajo en minutos.](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Que plantillas de n8n hay para OpenAI, LLMs y agentes de IA?
 
@@ -306,6 +322,8 @@ Esta es la categoria mas grande con 17 plantillas de IA y LLM para n8n. Las plan
 | AI: Ask questions about any data source (using the n8n workflow retriever) | Permite a los usuarios hacer preguntas sobre diversas fuentes de datos usando un recuperador de flujos de trabajo de n8n. | IA/Analisis de Datos/Automatizacion de Flujos | [Enlace a la Plantilla](OpenAI_and_LLMs/AI_%20Ask%20questions%20about%20any%20data%20source%20(using%20the%20n8n%20workflow%20retriever).json) |
 | AI: Summarize podcast episode and enhance using Wikipedia | Resume episodios de podcast y enriquece el resumen con informacion de Wikipedia usando IA. | Creacion de Contenido/IA/Analisis de Datos | [Enlace a la Plantilla](OpenAI_and_LLMs/AI_%20Summarize%20podcast%20episode%20and%20enhance%20using%20Wikipedia.json) |
 
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### Como creo chatbots de WhatsApp con n8n?
 
 Esta seccion incluye 4 plantillas de automatizacion de WhatsApp para n8n. Automatiza la preparacion de reuniones de ventas con IA y Apify, construye tu primer chatbot de WhatsApp, crea un chatbot RAG empresarial completo potenciado por OpenAI, o configura respuestas profesionales a mensajes con IA. Ideal para flujos de trabajo de atencion al cliente, ventas y comunicacion empresarial.
@@ -317,7 +335,7 @@ Esta seccion incluye 4 plantillas de automatizacion de WhatsApp para n8n. Automa
 | Complete business WhatsApp AI-Powered RAG Chatbot using OpenAI | Este flujo construye un chatbot RAG completo para empresas en WhatsApp, potenciado por IA con OpenAI. | Atencion al Cliente/IA/Desarrollo | [Enlace a la Plantilla](./WhatsApp/Complete%20business%20WhatsApp%20AI-Powered%20RAG%20Chatbot%20using%20OpenAI.json) |
 | Respond to WhatsApp Messages with AI Like a Pro! | Este flujo permite respuestas profesionales potenciadas por IA a los mensajes de WhatsApp. | Atencion al Cliente/IA/Comunicacion | [Enlace a la Plantilla](./WhatsApp/Respond%20to%20WhatsApp%20Messages%20with%20AI%20Like%20a%20Pro!.json) |
 
-> **Necesitas n8n para ejecutar estas plantillas?** [Empieza gratis -- sin configuracion necesaria.](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Cuales son las mejores plantillas de n8n para automatizacion de redes sociales?
 
@@ -335,6 +353,8 @@ Explora 10 plantillas de automatizacion de redes sociales para n8n que cubren In
 | Speed Up Social Media Banners With BannerBear.com | Automatiza la creacion de banners para redes sociales usando BannerBear.com. | Marketing/Diseno | [Enlace a la Plantilla](Instagram_Twitter_Social_Media/Speed%20Up%20Social%20Media%20Banners%20With%20BannerBear.com.json) |
 | Twitter Virtual AI Influencer | Gestiona la cuenta de Twitter de un influencer virtual con IA. | Marketing/IA | [Enlace a la Plantilla](Instagram_Twitter_Social_Media/Twitter%20Virtual%20AI%20Influencer.json) |
 | Update Twitter banner using HTTP request | Actualiza un banner de Twitter usando peticiones HTTP. | Marketing/Desarrollo | [Enlace a la Plantilla](Instagram_Twitter_Social_Media/Update%20Twitter%20banner%20using%20HTTP%20request.json) |
+
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Que otras plantillas de integracion de n8n hay disponibles?
 
@@ -372,7 +392,7 @@ Esta seccion incluye 27 plantillas adicionales de integracion de n8n que cubren 
 | Visualize SQL Agent queries with OpenAI and Quickchart.io | Crea visualizaciones a partir de consultas SQL usando OpenAI y Quickchart.io. | Analisis de Datos/Visualizacion | [Enlace a la Plantilla](Other_Integrations_and_Use_Cases/Visualize%20your%20SQL%20Agent%20queries%20with%20OpenAI%20and%20Quickchart.io.json) |
 | Zoom AI Meeting Assistant | Crea resumenes de reuniones, tareas en ClickUp y programa seguimientos a partir de reuniones de Zoom. | Productividad/Comunicacion | [Enlace a la Plantilla](Other_Integrations_and_Use_Cases/Zoom%20AI%20Meeting%20Assistant%20creates%20mail%20summary,%20ClickUp%20tasks%20and%20follow-up%20call.json) |
 
-> **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta gratuita de n8n y empieza a construir.](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Como automatizo formularios y encuestas con n8n?
 
@@ -383,6 +403,8 @@ Esta seccion contiene 3 plantillas de automatizacion de formularios y encuestas 
 | Conversational Interviews with AI Agents and n8n Forms | Implementa entrevistas conversacionales potenciadas por IA usando n8n Forms para recopilacion interactiva de datos. | Investigacion/Marketing | [Enlace a la Plantilla](Forms_and_Surveys/Conversational%20Interviews%20with%20AI%20Agents%20and%20n8n%20Forms.json) |
 | Email Subscription Service with n8n Forms, Airtable and AI | Gestiona suscripciones por correo electronico con n8n Forms, almacena datos en Airtable y usa IA para el procesamiento. | Marketing/Comunicacion | [Enlace a la Plantilla](Forms_and_Surveys/Email%20Subscription%20Service%20with%20n8n%20Forms,%20Airtable%20and%20AI.json) |
 | Qualifying Appointment Requests with AI & n8n Forms | Usa IA para cualificar y procesar solicitudes de citas enviadas a traves de n8n Forms. | Ventas/Soporte | [Enlace a la Plantilla](Forms_and_Surveys/Qualifying%20Appointment%20Requests%20with%20AI%20&%20n8n%20Forms.json) |
+
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 
 ### Que plantillas de n8n existen para investigacion con IA, RAG y analisis de datos?
 
@@ -430,11 +452,19 @@ Explora 39 plantillas de investigacion con IA, RAG y analisis de datos para n8n 
 | Visual Regression Testing with Apify and AI Vision Model | Realiza pruebas de regresion visual usando Apify y un modelo de vision con IA para detectar cambios en la interfaz. | QA, Investigacion de IA | [Visual Regression Testing with Apify and AI Vision Model.txt](./AI_Research_RAG_and_Data_Analysis/Visual%20Regression%20Testing%20with%20Apify%20and%20AI%20Vision%20Model.json) |
 | 🔍 Perplexity Research to HTML: AI-Powered Content Creation | Transforma investigacion de Perplexity AI en contenido HTML para creacion de contenido potenciada por IA. | Creacion de Contenido, Investigacion de IA | [🔍 Perplexity Research to HTML_ AI-Powered Content Creation.txt](./AI_Research_RAG_and_Data_Analysis/%F0%9F%94%8D%20Perplexity%20Research%20to%20HTML_%20AI-Powered%20Content%20Creation.json) |
 
+> 🚀 **Automatiza cualquier flujo de trabajo.** [Crea tu cuenta n8n gratis y empieza a construir →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
+
 ### Otros
 
 - `ALL_unique_nodes.txt` -- Referencia completa de nodos que lista todos los nodos unicos de n8n utilizados en estas plantillas.
 
 ---
+
+<p align="center">
+  <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
+    <img src="https://img.shields.io/badge/Crear_cuenta_n8n_gratis-Empezar_a_automatizar-orange?style=for-the-badge" alt="Create Free n8n Account" />
+  </a>
+</p>
 
 ## Preguntas Frecuentes
 
